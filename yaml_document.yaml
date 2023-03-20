@@ -1,0 +1,20 @@
+title: !text
+        en: Book
+        cs: Kniha
+
+meta:
+  languages: [en, cs]
+
+content:
+
+    - !chapter
+
+        - !label Label I.
+
+        - !text 
+          en: English paragraph one.
+          cs: Český odstavec jedna.
+
+        - !text 
+          en: English paragraph two.
+          cs: Český odstavec dva.
