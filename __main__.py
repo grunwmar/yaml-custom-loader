@@ -1,5 +1,5 @@
-from tag import Tag
-from custom_loader import CustomLoader
+from xyml.tag import Tag
+from xyml.custom_loader import CustomLoader
 
 
 @CustomLoader.set(alias="chapter")
